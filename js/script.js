@@ -78,7 +78,7 @@ const members = {
     serviceBill     :20,
     othersBill      :185,
     runningMonth    :"November-25",
-    previousMonth   :"October-25", // new addDecember link https://grabify.link/Q6NZ48
+    previousMonth   :"October-25", // new addDecember link https://grabify.link/P0IBKC
     upComingMonth   :"December 1,2025",
     runningMealRate :0,
 
@@ -847,6 +847,7 @@ function sumTotal(a){
     }
     return sum;
 }
+
 
 
 
