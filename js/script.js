@@ -80,7 +80,7 @@ const members = {
     runningMonth    :"November-25",
     previousMonth   :"October-25", // new addDecember link https://grabify.link/Q6NZ48
     upComingMonth   :"December 1,2025",
-    runningMealRate :65,
+    runningMealRate :0,
 
 //Continue for mass calculating {"04/08/25-Cash":4550}    
     "01922362569":{
@@ -847,6 +847,7 @@ function sumTotal(a){
     }
     return sum;
 }
+
 
 
 
