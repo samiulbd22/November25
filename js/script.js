@@ -76,7 +76,7 @@ const members = {
     khalaBill       :500,
     netBill         :140,
     serviceBill     :20,
-    othersBill      :185,
+    othersBill      :0,
     runningMonth    :"November-25",
     previousMonth   :"October-25", // new addDecember link https://grabify.link/P0IBKC
     upComingMonth   :"December 1,2025",
