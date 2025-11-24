@@ -150,7 +150,7 @@ const members = {
         post_payable        :4006,
         previous_paid       :5800,
         previous_dining_cost:3132,
-        payment             :{"01/11/25-Cash":2000,"14/11/25-Cash":4000,"01/11/25-Cash":500},
+        payment             :{"01/11/25-Cash":2000,"14/11/25-Cash":4000,"07/11/25-Cash":500},
         // running month
         stay_cost       :3250,
         garage_cost     :0,
@@ -191,7 +191,7 @@ const members = {
         post_payable        :3729,
         previous_paid       :5500,
         previous_dining_cost:2030,
-        payment             :{"08/11/25-Cash":4000,"10/11/25-Cash":500,,"23/11/25-Cash":500},
+        payment             :{"08/11/25-Cash":4000,"10/11/25-Cash":500,"23/11/25-Cash":500},
         // running month
         stay_cost       :2800,
         garage_cost     :0,
@@ -231,7 +231,7 @@ const members = {
         post_payable        :4637,
         previous_paid       :7000,
         previous_dining_cost:1534,
-        payment             :{"12/11/25-Cash":1000,"15/11/25-Cash":2000,,"24/11/25-Cash":700},
+        payment             :{"12/11/25-Cash":1000,"15/11/25-Cash":2000,"24/11/25-Cash":700},
         // running month {"01/07/24-Cash":500}
         stay_cost       :3500,
         garage_cost     :0,
@@ -252,7 +252,7 @@ const members = {
         post_payable        :2074,
         previous_paid       :6000,
         previous_dining_cost:2494,
-        payment             :{"21/11/25-Cash":1000,,"23/11/25-Cash":1000},
+        payment             :{"21/11/25-Cash":1000,"23/11/25-Cash":1000},
         // running month
         stay_cost       :2400,
         garage_cost     :0,
